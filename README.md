@@ -1,1 +1,3 @@
 # crypto-playground
+
+- No signing
