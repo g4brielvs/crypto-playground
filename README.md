@@ -7,3 +7,4 @@
 - Fixing signing in Tower
 - Fixing SSH
 - Fixing SSH in Tower
+- Fixing signing in Tower
