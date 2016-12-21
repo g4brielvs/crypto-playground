@@ -6,4 +6,3 @@
 - Fixing signing in command line
 - Fixing signing in Tower
 - Fixing SSH
-- Fixing signing in Tower
