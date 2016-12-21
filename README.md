@@ -5,3 +5,4 @@
 - Signing with Tower
 - Fixing signing in command line
 - Fixing signing in Tower
+- Fixing SSH
