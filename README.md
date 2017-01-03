@@ -8,3 +8,4 @@
 - Fixing SSH
 - Fixing SSH in Tower
 - Fixing signing in Tower
+- Testing configuration
