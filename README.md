@@ -9,3 +9,4 @@
 - Fixing SSH in Tower
 - Fixing signing in Tower
 - Testing configuration
+- Testing configuration
