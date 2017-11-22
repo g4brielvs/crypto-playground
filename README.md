@@ -10,3 +10,4 @@
 - Fixing signing in Tower
 - Testing configuration
 - Testing configuration
+- Testing configuration
