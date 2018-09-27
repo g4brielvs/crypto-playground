@@ -9,5 +9,4 @@
 - Fixing SSH in Tower
 - Fixing signing in Tower
 - Testing configuration with gpg2
-
-- Signing with command line
+- Signing with GitKraken
