@@ -11,3 +11,5 @@
 - Testing configuration with gpg2
 - Signing with GitKraken
 - Signing new machine
+
+- Signing with World Bank
